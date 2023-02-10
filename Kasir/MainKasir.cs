@@ -456,7 +456,6 @@ namespace Kasir
                 }
             }
         }
-
         int totalItem()
         {
             int totalitem = 0;
