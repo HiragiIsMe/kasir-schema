@@ -1,0 +1,52 @@
+C:\Users\RPL_120\source\repos\Kasir\Kasir\bin\Debug\Kasir.exe.config
+C:\Users\RPL_120\source\repos\Kasir\Kasir\bin\Debug\Kasir.exe
+C:\Users\RPL_120\source\repos\Kasir\Kasir\bin\Debug\Kasir.pdb
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.AssemblyReference.cache
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.SuggestedBindingRedirects.cache
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.Properties.Resources.resources
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.GenerateResource.cache
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.CoreCompileInputs.cache
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.exe
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.pdb
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.MainLogin.resources
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.MainAdmin.resources
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.MasterPegawai.resources
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.MasterBarang.resources
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.MasterJenisBarang.resources
+C:\Users\RPL_120\source\repos\Kasir\Kasir\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.CopyComplete
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.MainTransaksi.resources
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.MainKasir.resources
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.SplashScreen.resources
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Interop.WMPLib.dll
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.ResolveComReference.cache
+C:\Users\RPL_120\source\repos\Kasir\Kasir\obj\Debug\Kasir.Video.resources
+C:\Users\RPL_120\source\repos\Kasir\Kasir\bin\Debug\Interop.WMPLib.dll
+C:\Users\RPL_120\source\repos\Kasir\Kasir\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\bin\Debug\Kasir.exe.config
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\bin\Debug\Kasir.exe
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\bin\Debug\Kasir.pdb
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\bin\Debug\Interop.WMPLib.dll
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.AssemblyReference.cache
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.SuggestedBindingRedirects.cache
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Interop.WMPLib.dll
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.ResolveComReference.cache
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.MainAdmin.resources
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.MainKasir.resources
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.MainLogin.resources
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.MainTransaksi.resources
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.MasterBarang.resources
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.MasterJenisBarang.resources
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.MasterPegawai.resources
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.Properties.Resources.resources
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.SplashScreen.resources
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.Video.resources
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.GenerateResource.cache
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.CoreCompileInputs.cache
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.csproj.CopyComplete
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.exe
+C:\Users\SMKN 1 BONDOWOSO\source\repos\Kasir\Kasir\obj\Debug\Kasir.pdb
